@@ -335,6 +335,7 @@ a:hover, a:active {
 .hero-content {
     background: url("images/jk.jpg") no-repeat center;
     background-size: cover;
+    opacity: 0.9;
 }
 
 .hero-content-overlay {
